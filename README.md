@@ -6,4 +6,4 @@ Project page is here.
 
 Code will be released soon.
 
-![teaser](figures/teaser.png)
+![teaser](figures/teaser.jpg)
